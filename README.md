@@ -10,6 +10,7 @@ No app to install, no subscription, no code. Just a cheap NFC tag and the built-
 
 ## Demo
 https://github.com/user-attachments/assets/1b0bf2d7-c9d9-4318-bf37-a88ba87a52ac
+https://github.com/user-attachments/assets/7f018fc9-0f1c-43e4-9b17-20e36b890a8a
 
 
 ## The problem it solves
