@@ -18,7 +18,7 @@ What I needed was a **physical** barrier:
 
 - **It breaks the habit loop.** Opening a blocked app sends me straight back to the Home Screen, which interrupts the automatic reach-for-the-phone reflex.
 - **It makes unlocking a conscious choice.** The only way to unlock is to get up and fetch the tag from another room. If I still want to scroll after that walk, at least it's a decision and not a reflex.
-- **It makes starting a session a ritual.** Tapping the tag at my desk is a clear "now I'm working" signal, and the lock stays on for as long as the study session lasts, whether that's one hour or six.
+- **It makes starting a session a ritual.** Tapping the tag at my kitchen before i work is a clear "now I'm working" signal, and the lock stays on for as long as the study session lasts, whether that's one hour or six.
 - **It's cheap and private.** No subscription, no third-party app, no data leaving the phone. Just an NFC sticker and features already built into iOS.
 
 
