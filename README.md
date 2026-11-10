@@ -21,15 +21,11 @@ What I needed was a **physical** barrier:
 - **It makes starting a session a ritual.** Tapping the tag at my desk is a clear "now I'm working" signal, and the lock stays on for as long as the study session lasts, whether that's one hour or six.
 - **It's cheap and private.** No subscription, no third-party app, no data leaving the phone. Just an NFC sticker and features already built into iOS.
 
-![A study session with the tag](assets/study-routine.svg)
-
 > Inspired by commercial NFC "pause" tokens. This is an independent, do-it-yourself take on the concept and is not affiliated with any product.
 
 ---
 
 ## How it works
-
-![How it works](assets/how-it-works.svg)
 
 1. A custom **Focus mode** called `Pause` acts as the on/off switch.
 2. An **NFC automation** toggles that Focus mode whenever you tap the tag.
@@ -46,8 +42,6 @@ The tag doesn't need to be programmed. Shortcuts recognises it by its unique ID.
 > **Note on MIFARE Classic:** iPhone can't read or write the *contents* of MIFARE Classic tags, so apps like NFC Tools won't detect them. Shortcuts automations still work because they only use the tag's ID. Test directly in Shortcuts.
 
 ## Setup (about 10–15 minutes)
-
-![Setup in 3 steps](assets/setup-overview.svg)
 
 Menu names may differ slightly between iOS versions. The screenshots are from an iPhone set to Norwegian, so the English names are given in the text.
 
