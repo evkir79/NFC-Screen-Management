@@ -5,7 +5,7 @@ Tap an NFC tag to lock distracting apps on your iPhone. Tap it again to unlock t
 No app to install, no subscription, no code. Just a cheap NFC tag and the built-in **Shortcuts** app.
 
 <p align="center">
-  <img src="screenshots/00-tags.jpg" width="380" alt="The NFC stickers I use">
+  <img src="screenshots/00-tags.png" width="380" alt="The NFC stickers I use">
 </p>
 
 ## The problem it solves
