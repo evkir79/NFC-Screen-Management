@@ -8,6 +8,10 @@ No app to install, no subscription, no code. Just a cheap NFC tag and the built-
   <img src="screenshots/00-tags.png" width="380" alt="The NFC stickers I use">
 </p>
 
+## Demo
+https://github.com/user-attachments/assets/1b0bf2d7-c9d9-4318-bf37-a88ba87a52ac
+
+
 ## The problem it solves
 
 I'm a student, and during exam periods I need to stay focused for many hours at a time. The biggest threat to that isn't a lack of motivation. It's autopilot. I pick up my phone without thinking, open an app out of pure habit, and twenty minutes of scrolling later I've lost my flow.
