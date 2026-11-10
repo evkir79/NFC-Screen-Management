@@ -21,7 +21,6 @@ What I needed was a **physical** barrier:
 - **It makes starting a session a ritual.** Tapping the tag at my desk is a clear "now I'm working" signal, and the lock stays on for as long as the study session lasts, whether that's one hour or six.
 - **It's cheap and private.** No subscription, no third-party app, no data leaving the phone. Just an NFC sticker and features already built into iOS.
 
-> Inspired by commercial NFC "pause" tokens. This is an independent, do-it-yourself take on the concept and is not affiliated with any product.
 
 ---
 
@@ -38,8 +37,6 @@ What I needed was a **physical** barrier:
 - One or more NFC tags. **NTAG213/215/216** and **MIFARE Classic 1K** stickers both work (I use a 4-pack of MIFARE Classic 1K stickers).
 
 The tag doesn't need to be programmed. Shortcuts recognises it by its unique ID.
-
-> **Note on MIFARE Classic:** iPhone can't read or write the *contents* of MIFARE Classic tags, so apps like NFC Tools won't detect them. Shortcuts automations still work because they only use the tag's ID. Test directly in Shortcuts.
 
 ## Setup (about 10–15 minutes)
 
@@ -100,7 +97,7 @@ Menu names may differ slightly between iOS versions. The screenshots are from an
 
 With the basic setup you can still open Shortcuts and switch the automation off. These steps close the easy loopholes:
 
-1. **Block the Shortcuts app with Screen Time.** Settings → Screen Time → App Limits → Add Limit → choose **Shortcuts**, set the limit to **0–1 minute** and turn on **Block at End of Limit**. The automations keep running in the background, but you can no longer edit or disable them on a whim.
+1. **Block the Shortcuts app with Screen Time.** Settings → Screen Time → App Limits → Add Limit → choose **Shortcuts**, set the limit to **0–0 minute** and turn on **Block at End of Limit**. The automations keep running in the background, but you can no longer edit or disable them on a whim.
 2. **Let someone else set the Screen Time passcode.** Settings → Screen Time → Use Screen Time Passcode. Without a passcode, the limit only shows an "Ignore Limit" button. When you need to change the setup, tap *Ask For More Time* and have them enter it.
 3. **Remove Focus from Control Center**, so the Focus mode can't be switched off with one swipe.
 
